@@ -3,6 +3,8 @@
 
 # TODO
 -standardize orthography
+capitalization
+words for parts of speech
 
 # NOUNS
 blabber: language (archaic)

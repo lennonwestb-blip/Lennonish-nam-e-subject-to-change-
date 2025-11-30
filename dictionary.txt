@@ -91,7 +91,7 @@ il'tu: they
 do'tu: you
 
 # INTERJECTIONS
-hi: tsa
+tsa: hi
 similify: me too
 meshoopita: if i understand correctly (do we need this?)
 begga: please
